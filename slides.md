@@ -1,11 +1,15 @@
-# Hallo, Prof!
+# GitHub Organization
 
-* Point 1
-* Point 2
+* Jannika Spreemann & Vanessa Karnath
+* 08.10.2020
 
 ---
 
-## Second slide
+## What is GitHub?
+
+a. Definition Git
+* Git is...
+
 
 > Best quote ever.
 
