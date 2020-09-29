@@ -10,19 +10,12 @@
 ### Agenda
 
 * What is GitHub?
-
 * Company Facts & Figures
-
 * How to use GitHub
-
-* What can you do with GitHub?
-
-* 5 cool things you can do with GitHub
-
-* GitHub for organization
-
+* Main Features
+* 6 Cool Things you can do With GitHub
+* GitHub for Organization
 * Summary
-
 * Sources
 
 ---
@@ -85,7 +78,15 @@ _There are 8 steps how to generally use GitHub:_
 
 
 ---
-### What can I do with GitHub?
+### Main Features
+
+1. Forking a Repository
+2. Pull Requests
+3. Social Networking
+4. Changelogs
+
+---
+### Main Features
 
 _Forking a Repository_
 
@@ -94,7 +95,8 @@ _Forking a Repository_
 * Making changes to a repo and then release it
 
 ---
-### What can I do with GitHub?
+
+### Main Features
 
 _Pull Requests_
 
@@ -102,7 +104,7 @@ _Pull Requests_
 * Authors see your work and accept in into the official project – or not
 
 ---
-### What can I do with GitHub?
+### Main Features
 
 _Social Networking_
 
@@ -110,7 +112,7 @@ _Social Networking_
 * Shows past work and contributions to other projects via pull requests
 
 ---
-### What can I do with GitHub?
+### Main Features
 
 _Changelogs_
 
@@ -118,7 +120,7 @@ _Changelogs_
 * Facilitates working with many people on one project
 
 ---
-### 6 cool things you can do with GitHub
+### 6 Cool Things you can do With GitHub
 
 1. Edit & format code
 2. Pasting images
@@ -128,35 +130,35 @@ _Changelogs_
 6. Use it as CMS
 
 ---
-### Edit & Format Code
+### 1. Edit & Format Code
 
 * ...
 
 ---
-### Pastimng Images
+### 2. Pastimng Images
 
 * ...
 
 ---
-### Limking comments & code
+### 3. Limking comments & code
 
 * ...
 
 ---
-### GitHub Wiki
+### 4. GitHub Wiki
 
 * Unstructured collection of pages (like Wikipedia)
 * Collects user guides and detailed documentations
 * Helps you to present in-depth information about your projects
 
 ---
-### Project boards
+### 5. Project boards
 
 * Under ''projects'', users can create and organize To Do lists (like e.g. in Trello)
 * Perfect for task management
 
 ---
-### Use it as CMS
+### 6. Use it as CMS
 
 * GitHub as a house for some chunks of text
 * Using markdown files stored in your repository to hold a text for your website
