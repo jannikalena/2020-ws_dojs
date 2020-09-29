@@ -1,7 +1,8 @@
 # GitHub Organization
 
-* Jannika Spreemann & Vanessa Karnath
-* 08.10.2020
+Presentation by 
+Jannika Spreemann & Vanessa Karnath
+08.10.2020
 
 ---
 
@@ -14,3 +15,4 @@ a. Definition Git
 > Best quote ever.
 
 Note: speaker notes FTW!
+
