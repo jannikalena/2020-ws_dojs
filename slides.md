@@ -7,9 +7,6 @@ by Jannika Spreemann & Vanessa Karnath
 ## Agenda
 
 * What is GitHub?
-    * Definition Git
-    * Definition GitHub
-    * What is a repository?
 
 * Company Facts & Figures
 
@@ -23,29 +20,29 @@ by Jannika Spreemann & Vanessa Karnath
 
 * Summary
 
-### What is GitHub?
+# What is GitHub?
 
 Definition Git
 * Git is...
 
-#### What is GitHub?
+# What is GitHub?
 
 Definition GitHub
 * ...
 
-##### What is a repository?
+# What is a repository?
 
 * ....
 
-###### Company Facts & Figures
+# Company Facts & Figures
 
 * ...
 
-###### How to use GitHub
+# How to use GitHub
 
 * ...
 
-###### What can I do with GitHub
+# What can I do with GitHub
 
 * ... 
 
