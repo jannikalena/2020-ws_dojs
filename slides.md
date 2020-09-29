@@ -94,7 +94,6 @@ _Forking a Repository_
 * Making changes to a repo and then release it
 
 ---
-
 ### What can I do with GitHub?
 
 _Pull Requests_
@@ -103,7 +102,6 @@ _Pull Requests_
 * Authors see your work and accept in into the official project – or not
 
 ---
-
 ### What can I do with GitHub?
 
 _Social Networking_
@@ -112,7 +110,6 @@ _Social Networking_
 * Shows past work and contributions to other projects via pull requests
 
 ---
-
 ### What can I do with GitHub?
 
 _Changelogs_
@@ -121,15 +118,48 @@ _Changelogs_
 * Facilitates working with many people on one project
 
 ---
-
 ### 6 cool things you can do with GitHub
 
 1. Edit & format code
 2. Pasting images
 3. Linking to comments & code
-4. Create lists, in issues
+4. Use the GitHub Wiki
 5. Project boards
 6. Use it as CMS
+
+---
+### Edit & Format Code
+
+* ...
+
+---
+### Pastimng Images
+
+* ...
+
+---
+### Limking comments & code
+
+* ...
+
+---
+### GitHub Wiki
+
+* Unstructured collection of pages (like Wikipedia)
+* Collects user guides and detailed documentations
+* Helps you to present in-depth information about your projects
+
+---
+### Project boards
+
+* Under ''projects'', users can create and organize To Do lists (like e.g. in Trello)
+* Perfect for task management
+
+---
+### Use it as CMS
+
+* GitHub as a house for some chunks of text
+* Using markdown files stored in your repository to hold a text for your website
 
 ---
 ### GitHub for Organization
