@@ -14,7 +14,7 @@
 * How to use GitHub
 * Main Features
 * 6 Cool Things you can do With GitHub
-* GitHub for Organization
+* GitHub Organization
 * Summary
 * Sources
 
@@ -101,14 +101,14 @@ _Forking a Repository_
 _Pull Requests_
 
 * Creating a pull request to let the forked repository be recognized by the original developers
-* Authors see your work and accept in into the official project – or not
+* Authors see your work and accept it into the official project – or not
 
 ---
 ### Main Features
 
 _Social Networking_
 
-* Each usere on GitHub has an own profile
+* Each user on GitHub has an own profile
 * Shows past work and contributions to other projects via pull requests
 
 ---
@@ -140,7 +140,7 @@ _Changelogs_
 * ...
 
 ---
-### 3. Limking comments & code
+### 3. Linking comments & code
 
 * ...
 
@@ -164,9 +164,23 @@ _Changelogs_
 * Using markdown files stored in your repository to hold a text for your website
 
 ---
-### GitHub for Organization
+### GitHub Organization
 
-* ...
+_What's an Organization?_
+
+* Shared accounts where a business and an open-source project can collaborate across many projects at a time
+* Owner and admins can manage member access to data in organization
+* Sophisticated security and administrative features
+
+---
+### GitHub Organization
+
+_What do Orgnizations Include?_
+
+* Unlimited Collaborators on unlimited public repositories
+* Full features
+* Unlimited membership & different roles that grant different levels of access
+* Nested teams, refelcting company's structure
 
 ---
 ### Summary
@@ -188,6 +202,7 @@ _Changelogs_
 
 * [https://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/](https://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/)
 * [https://medium.com/hackernoon/12-cool-things-you-can-do-with-github-f3e0424cf2f0](https://medium.com/hackernoon/12-cool-things-you-can-do-with-github-f3e0424cf2f0)
+* [https://docs.github.com/en/github/setting-up-and-managing-organizations-and-teams/about-organizations](https://docs.github.com/en/github/setting-up-and-managing-organizations-and-teams/about-organizations)
 ---
 
 # Thank your for your attention!
