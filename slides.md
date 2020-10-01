@@ -189,7 +189,7 @@ _What do Orgnizations Include?_
 
 _Organizing on GitHub_
 
-* ...
+* Als Beispiel darstellen, wie man mit GitHub als Organisation arbeiten kann, mit dere hilfe von forking, pull requests etc......  
 
 ---
 ### Summary
