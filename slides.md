@@ -168,7 +168,7 @@ _Changelogs_
 ---
 ### GitHub Organization
 
-_What's an Organization?_
+_Organization Accounts_
 
 * Shared accounts where a business and an open-source project can collaborate across many projects at a time
 * Owner and admins can manage member access to data in organization
@@ -183,6 +183,13 @@ _What do Orgnizations Include?_
 * Full features
 * Unlimited membership & different roles that grant different levels of access
 * Nested teams, refelcting company's structure
+
+---
+### GitHub Organization
+
+_Organizing on GitHub_
+
+* ...
 
 ---
 ### Summary
