@@ -13,33 +13,32 @@
 
 * What is GitHub?
 * Company Facts & Figures
+* Programming Languages on GitHub
 * How to use GitHub
 * Main Features
-* 6 Cool Things you can do With GitHub
+* 3 Cool Extras
 * GitHub Organization
-* Summary
+* Example of GitHub Process Flow
 * Sources
 
 ---
 ### What is GitHub?
 
  _Definition Git_
-* Self-sufficient tool
 * Distributed version-control system
-* Can be used to manage project revisions
+* Enables developers from all over the world to work on one single software project simultaneously
+* Users can always return to older versions
 * Manages source code revision history 
 * Tracks changes during the development of software
-* Designed for coordinating work of programmers
-
 
 ---
 ### What is GitHub?
 
 _Definition GitHub_
 * Hosting service for Git repositories
-* Additionaly includes own features
-* Enables developer collaboration
+* Place to build, change & share software collaboratively
 * Free to use for open-source & public projects
+* Additionaly includes own features
 
 ---
 ### What is GitHub?
@@ -62,8 +61,10 @@ _Definition Software Repository_
 * Repositories: > 100 million
 * Revenue: $200 million annual recurring
 
+---
+### GitHub Programming Languages 
 
-
+* BILD einfügen 
 ---
 ### How to use GitHub
 
@@ -77,7 +78,6 @@ _There are 8 steps how to generally use GitHub:_
 6. Add changes to staging area
 7. Commit changes
 8. Push changes to the remote
-
 
 ---
 ### Main Features
@@ -122,45 +122,33 @@ _Changelogs_
 * Facilitates working with many people on one project
 
 ---
-### 6 Cool Things you can do With GitHub
+### 3 Cool Extras
 
-1. Edit & format code
-2. Pasting images
-3. Linking to comments & code
-4. Use the GitHub Wiki
-5. Project boards
-6. Use it as CMS
+1. The GitHub Wiki
+2. Project boards
+3. Use it as CMS
 
 ---
-### 1. Edit & Format Code
+### 3 Cool Extras
 
-* ...
-
----
-### 2. Pastimng Images
-
-* ...
-
----
-### 3. Linking comments & code
-
-* ...
-
----
-### 4. GitHub Wiki
+_1. GitHub Wiki_
 
 * Unstructured collection of pages (like Wikipedia)
 * Collects user guides and detailed documentations
 * Helps you to present in-depth information about your projects
 
 ---
-### 5. Project boards
+### 3 Cool Extras
+
+_2. Project boards_
 
 * Under ''projects'', users can create and organize To Do lists (like e.g. in Trello)
 * Perfect for task management
 
 ---
-### 6. Use it as CMS
+### 3 Cool Extras
+
+_3. Use it as CMS_
 
 * GitHub as a house for some chunks of text
 * Using markdown files stored in your repository to hold a text for your website
@@ -170,6 +158,7 @@ _Changelogs_
 
 _Organization Accounts_
 
+* Group of 2 or more users representing real world organizations
 * Shared accounts where a business and an open-source project can collaborate across many projects at a time
 * Owner and admins can manage member access to data in organization
 * Sophisticated security and administrative features
@@ -187,15 +176,26 @@ _What do Orgnizations Include?_
 ---
 ### GitHub Organization
 
-_Organizing on GitHub_
+_Why does GitHub Organization matter?_
 
-* Als Beispiel darstellen, wie man mit GitHub als Organisation arbeiten kann, mit dere hilfe von forking, pull requests etc... 
+* Facilitaes information travel, discoverability & collaboration and productivity 
+* Organization via allocating tasks within company
+* Promotes equal decision making & responsibility 
+* Supports leadership via different member roles
 
 ---
-### Summary
+### GitHub Organization
 
-* ...
+| `Org. Type`                  | `Company Size`| `Beneftis`                                    |
+| ---------------------------- |:-------------:| ---------------------------------------------:|
+| Single Org.                  | Small         | Ideal for startups, highly collaborative      |
+| Single Org. with mult. teams | Medium        | Ideal for comp. with security restrictions    |
+| Mult. Org. with mult. teams  | Large         | Higher separation lvl, more control over repos|
 
+---
+### Example of GitHub Process Flow
+
+* BILD einfügen
 ---
 ### Sources
 
@@ -212,10 +212,25 @@ _Organizing on GitHub_
 * [https://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/](https://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/)
 * [https://medium.com/hackernoon/12-cool-things-you-can-do-with-github-f3e0424cf2f0](https://medium.com/hackernoon/12-cool-things-you-can-do-with-github-f3e0424cf2f0)
 * [https://docs.github.com/en/github/setting-up-and-managing-organizations-and-teams/about-organizations](https://docs.github.com/en/github/setting-up-and-managing-organizations-and-teams/about-organizations)
+* [https://resources.github.com/downloads/github-guide-to-organizations.pdf](https://resources.github.com/downloads/github-guide-to-organizations.pdf)
+* [https://madnight.github.io/githut/#/pull_requests/2020/2](https://madnight.github.io/githut/#/pull_requests/2020/2)
 ---
 
 # Thank your for your attention!
 > #### Any questions? :)
+
+/Users/jannika/Desktop/2020-ws_dojs/Logo.jpg
+
+hhhh
+
+
+
+![2020-ws_dojs](/Users/jannika/Desktop/2020-ws_dojs/Logo.jpg)
+
+
+
+
+
 
 
 
