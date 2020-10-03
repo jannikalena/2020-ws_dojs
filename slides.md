@@ -1,12 +1,12 @@
-# GitHub Organization
+## `GitHub Organization`
 
-> Vanessa Karnath
+![](2020-10-03-16-36-52.png)
 
-> Jannika Spreemann
+`Vanessa Karnath & Jannika Spreemann`
 
-08.10.2020
+`08.10.2020`
 
-[https://github.com/jannikalena/2020-ws_dojs](https://github.com/jannikalena/2020-ws_dojs)
+_[https://github.com/jannikalena/2020-ws_dojs](https://github.com/jannikalena/2020-ws_dojs)_
 
 ---
 ### Agenda
@@ -64,7 +64,9 @@ _Definition Software Repository_
 ---
 ### GitHub Programming Languages 
 
-* BILD einfügen 
+![](2020-10-03-16-26-44.png)
+
+_Top 10 programming languages (2nd Quarter of 2020)_
 ---
 ### How to use GitHub
 
@@ -195,7 +197,7 @@ _Why does GitHub Organization matter?_
 ---
 ### Example of GitHub Process Flow
 
-* BILD einfügen
+![](2020-10-03-16-41-57.png)
 ---
 ### Sources
 
@@ -216,16 +218,7 @@ _Why does GitHub Organization matter?_
 * [https://madnight.github.io/githut/#/pull_requests/2020/2](https://madnight.github.io/githut/#/pull_requests/2020/2)
 ---
 
-# Thank your for your attention!
+## Thank your for your attention!
+![](2020-10-03-16-36-52.png)
 > #### Any questions? :)
-
-
-![](https://de.wikipedia.org/wiki/Moon_(Film)#/media/Datei:Moon.svg)
-
-
-
-
-
-
-
 
