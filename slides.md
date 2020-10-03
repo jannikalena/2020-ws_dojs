@@ -220,6 +220,8 @@ _Why does GitHub Organization matter?_
 > #### Any questions? :)
 
 
+![](https://de.wikipedia.org/wiki/Moon_(Film)#/media/Datei:Moon.svg)
+
 
 
 
