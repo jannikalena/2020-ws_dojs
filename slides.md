@@ -219,13 +219,6 @@ _Why does GitHub Organization matter?_
 # Thank your for your attention!
 > #### Any questions? :)
 
-/Users/jannika/Desktop/2020-ws_dojs/Logo.jpg
-
-hhhh
-
-
-
-![2020-ws_dojs](/Users/jannika/Desktop/2020-ws_dojs/Logo.jpg)
 
 
 
