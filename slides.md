@@ -19,6 +19,7 @@ _[https://github.com/jannikalena/2020-ws_dojs](https://github.com/jannikalena/20
 * 3 Cool Extras
 * GitHub Organization
 * Example of GitHub Process Flow
+* Discussion
 * Sources
 
 ---
@@ -84,10 +85,10 @@ _There are 8 steps how to generally use GitHub:_
 ---
 ### Main Features
 
-1. Forking a Repository
-2. Pull Requests
-3. Social Networking
-4. Changelogs
+* Forking a Repository
+* Pull Requests
+* Social Networking
+* Changelogs
 
 ---
 ### Main Features
@@ -199,6 +200,31 @@ _Why does GitHub Organization matter?_
 
 ![](2020-10-03-16-41-57.png)
 ---
+### Discussion: Now it's your turn
+
+> #### Do you know any company that makes use of GitHub? 
+> #### What do you think they use it for?
+
+---
+### Discussion: Popular Companies using GitHub
+
+* Airbnb 
+* Netflix
+* Shopify
+* Lyft
+* reddit
+
+---
+### Discussion: Company Case Shopify
+
+* Popular e-commerce software
+* Developers use 'issues' for tracking tasks & other projects
+* 575 repositories
+* 2 projects
+
+[https://github.com/Shopify](https://github.com/Shopify)
+
+---
 ### Sources
 
 * [https://en.wikipedia.org/wiki/Git](https://en.wikipedia.org/wiki/Git)
@@ -214,11 +240,19 @@ _Why does GitHub Organization matter?_
 * [https://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/](https://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/)
 * [https://medium.com/hackernoon/12-cool-things-you-can-do-with-github-f3e0424cf2f0](https://medium.com/hackernoon/12-cool-things-you-can-do-with-github-f3e0424cf2f0)
 * [https://docs.github.com/en/github/setting-up-and-managing-organizations-and-teams/about-organizations](https://docs.github.com/en/github/setting-up-and-managing-organizations-and-teams/about-organizations)
+
+---
+### Sources Cont'd
+
 * [https://resources.github.com/downloads/github-guide-to-organizations.pdf](https://resources.github.com/downloads/github-guide-to-organizations.pdf)
 * [https://madnight.github.io/githut/#/pull_requests/2020/2](https://madnight.github.io/githut/#/pull_requests/2020/2)
+* [https://stackshare.io/github](https://stackshare.io/github)
+* [https://github.com/shopify](https://github.com/shopify)
+
 ---
 
-## Thank your for your attention!
+
+## `Thank your for your attention!`
 ![](2020-10-03-16-36-52.png)
-> #### Any questions? :)
+> #### `Any questions? :)`
 
