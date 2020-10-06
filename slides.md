@@ -1,6 +1,6 @@
 ## `GitHub Organization`
 
-![https://github.com/jannikalena/2020-ws_dojs/blob/master/GitHub%20Logo.jpg](2020-10-03-16-36-52.png)
+![https://github.com/jannikalena/2020-ws_dojs/blob/master/GitHub%20Logo.jpg](https://github.com/jannikalena/2020-ws_dojs/blob/master/GitHub%20Logo.jpg)
 
 `Vanessa Karnath & Jannika Spreemann`
 
