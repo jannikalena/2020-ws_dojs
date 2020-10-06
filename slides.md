@@ -198,7 +198,7 @@ _Why does GitHub Organization matter?_
 ---
 ### Example of GitHub Process Flow
 
-![](2020-10-03-16-41-57.png)
+![https://github.com/jannikalena/2020-ws_dojs/blob/master/Process%20Flow%20Grafik.jpg](https://github.com/jannikalena/2020-ws_dojs/blob/master/Process%20Flow%20Grafik.jpg)
 ---
 ### Discussion: Now it's your turn
 
