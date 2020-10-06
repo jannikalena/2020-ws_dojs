@@ -65,7 +65,7 @@ _Definition Software Repository_
 ---
 ### GitHub Programming Languages 
 
-![](2020-10-03-16-26-44.png)
+![https://github.com/jannikalena/2020-ws_dojs/blob/master/Grafik%20Programmiersprachen.jpg](https://github.com/jannikalena/2020-ws_dojs/blob/master/Grafik%20Programmiersprachen.jpg)
 
 _Top 10 programming languages (2nd Quarter of 2020)_
 ---
