@@ -253,6 +253,6 @@ _Why does GitHub Organization matter?_
 
 
 ## `Thank your for your attention!`
-![](2020-10-03-16-36-52.png)
+![https://github.com/jannikalena/2020-ws_dojs/blob/master/GitHub%20Logo.jpg](https://github.com/jannikalena/2020-ws_dojs/blob/master/GitHub%20Logo.jpg)
 > #### `Any questions? :)`
 
