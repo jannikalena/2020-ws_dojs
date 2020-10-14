@@ -2,7 +2,7 @@
 
 ![https://github.com/jannikalena/2020-ws_dojs/blob/master/GitHub%20Logo.jpg](https://github.com/jannikalena/2020-ws_dojs/blob/master/GitHub%20Logo.jpg)
 
-`Vanessa Karnath & Jannika Spreemann`
+`Vanessa Karnath & Jannika Lena Spreemann`
 
 `08.10.2020`
 
